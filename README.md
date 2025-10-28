@@ -4,9 +4,9 @@ A web app that retrieves live weather data from a public API (e.g., Open-Meteo o
 using XMLHttpRequest wrapped in a Promise.
 
 ## Core Learning Goals:
- Using Promises to handle HTTP responses and errors.
- Chaining Promises for sequential operations (e.g., first get coordinates → then get forecast).
- Updating UI dynamically with resolved Promise data.
+ Using Promises to handle HTTP responses and errors.<br>
+ Chaining Promises for sequential operations (e.g., first get coordinates → then get forecast).<br>
+ Updating UI dynamically with resolved Promise data.<br>
 
 ## Example Flow:
 1. User enters a city name.
